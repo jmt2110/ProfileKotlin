@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProfileKotlin</string>
+    <string name="textName">Jake</string>
+    <string name="textButtonProfile">View Profile</string>
+    <string name="textProfileInfo">My Name is Jake \n I am 25 years old \n I live in Mchenry</string>
+</resources>
